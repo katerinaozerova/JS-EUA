@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "4.17.12",
-    "minimatch": "^3.0.2"
+    "minimatch": "^3.0.5"
   }
 }
